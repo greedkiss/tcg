@@ -1,0 +1,300 @@
+TOPOTECAN+BORTEZOMIB	
+GEFITINIB+BORTEZOMIB	The metabolism of Gefitinib can be decreased when combined with Bortezomib.
+VINCRISTINE+BORTEZOMIB	The metabolism of Vincristine can be decreased when combined with Bortezomib.
+MITOMYCIN+BORTEZOMIB	
+VINORELBINE+BORTEZOMIB	The metabolism of Vinorelbine can be decreased when combined with Bortezomib.
+PORFIMER+BORTEZOMIB	
+GEMCITABINE+BORTEZOMIB	
+CARBOPLATIN+BORTEZOMIB	
+ETOPOSIDE+BORTEZOMIB	The metabolism of Etoposide can be decreased when combined with Bortezomib.
+IRINOTECAN+BORTEZOMIB	The metabolism of Irinotecan can be decreased when combined with Bortezomib.
+OSIMERTINIB+BORTEZOMIB	The serum concentration of Bortezomib can be increased when it is combined with Osimertinib.
+DOCETAXEL+BORTEZOMIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Bortezomib.
+BRIGATINIB+BORTEZOMIB	The metabolism of Brigatinib can be decreased when combined with Bortezomib.
+BEVACIZUMAB+BORTEZOMIB	Bevacizumab may increase the cardiotoxic activities of Bortezomib.
+DOXORUBICIN+BORTEZOMIB	The metabolism of Doxorubicin can be decreased when combined with Bortezomib.
+DOXORUBICIN+BORTEZOMIB	The serum concentration of Doxorubicin can be increased when it is combined with Bortezomib.
+METHOTREXATE+BORTEZOMIB	
+PEMETREXED+BORTEZOMIB	
+ICOTINIB+BORTEZOMIB	The metabolism of Icotinib can be decreased when combined with Bortezomib.
+CISPLATIN+BORTEZOMIB	
+OLMUTINIB+BORTEZOMIB	
+ALECTINIB+BORTEZOMIB	
+AFATINIB+BORTEZOMIB	
+CRIZOTINIB+BORTEZOMIB	The metabolism of Crizotinib can be decreased when combined with Bortezomib.
+RAMUCIRUMAB+BORTEZOMIB	
+NINTEDANIB+BORTEZOMIB	
+ERLOTINIB+BORTEZOMIB	The metabolism of Erlotinib can be decreased when combined with Bortezomib.
+NINTEDANIB+COPANLISIB	
+NINTEDANIB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Nintedanib.
+NINTEDANIB+CYTARABINE	
+NINTEDANIB+DENILEUKIN DIFTITOX	
+NINTEDANIB+IFOSFAMIDE	
+NINTEDANIB+LENALIDOMIDE	
+NINTEDANIB+MITOXANTRONE	The serum concentration of Nintedanib can be increased when it is combined with Mitoxantrone.
+NINTEDANIB+TEMSIROLIMUS	The serum concentration of Nintedanib can be increased when it is combined with Temsirolimus.
+GEFITINIB+LENVATINIB	
+VINCRISTINE+LENVATINIB	
+MITOMYCIN+LENVATINIB	
+VINORELBINE+LENVATINIB	
+PORFIMER+LENVATINIB	
+IRINOTECAN+LENVATINIB	
+OSIMERTINIB+LENVATINIB	The serum concentration of Lenvatinib can be increased when it is combined with Osimertinib.
+BRIGATINIB+LENVATINIB	
+DOXORUBICIN+LENVATINIB	
+METHOTREXATE+LENVATINIB	
+PEMETREXED+LENVATINIB	
+ICOTINIB+LENVATINIB	
+OLMUTINIB+LENVATINIB	
+ALECTINIB+LENVATINIB	
+AFATINIB+LENVATINIB	
+RAMUCIRUMAB+LENVATINIB	
+NINTEDANIB+LENVATINIB	
+ERLOTINIB+LENVATINIB	
+GEFITINIB+LENVATINIB	
+VINCRISTINE+LENVATINIB	
+MITOMYCIN+LENVATINIB	
+VINORELBINE+LENVATINIB	
+PORFIMER+LENVATINIB	
+IRINOTECAN+LENVATINIB	
+OSIMERTINIB+LENVATINIB	The serum concentration of Lenvatinib can be increased when it is combined with Osimertinib.
+BRIGATINIB+LENVATINIB	
+DOXORUBICIN+LENVATINIB	
+METHOTREXATE+LENVATINIB	
+PEMETREXED+LENVATINIB	
+ICOTINIB+LENVATINIB	
+OLMUTINIB+LENVATINIB	
+ALECTINIB+LENVATINIB	
+AFATINIB+LENVATINIB	
+RAMUCIRUMAB+LENVATINIB	
+NINTEDANIB+LENVATINIB	
+ERLOTINIB+LENVATINIB	
+GEFITINIB+COPANLISIB	
+DOXORUBICIN+COPANLISIB	
+METHOTREXATE+COPANLISIB	
+GEFITINIB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Gefitinib.
+IRINOTECAN+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Irinotecan.
+DOCETAXEL+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Docetaxel.
+DOXORUBICIN+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Doxorubicin.
+DOXORUBICIN+CYCLOPHOSPHAMIDE	The serum concentration of Doxorubicin can be increased when it is combined with Cyclophosphamide.
+METHOTREXATE+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Methotrexate.
+CISPLATIN+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Cisplatin.
+GEFITINIB+CYTARABINE	
+IRINOTECAN+CYTARABINE	
+DOCETAXEL+CYTARABINE	The risk or severity of adverse effects can be increased when Docetaxel is combined with Cytarabine.
+DOXORUBICIN+CYTARABINE	
+METHOTREXATE+CYTARABINE	
+ERLOTINIB+CYTARABINE	
+GEFITINIB+DENILEUKIN DIFTITOX	
+IRINOTECAN+DENILEUKIN DIFTITOX	
+DOXORUBICIN+DENILEUKIN DIFTITOX	
+METHOTREXATE+DENILEUKIN DIFTITOX	
+IRINOTECAN+IFOSFAMIDE	
+DOCETAXEL+IFOSFAMIDE	The risk or severity of adverse effects can be increased when Docetaxel is combined with Ifosfamide.
+DOXORUBICIN+IFOSFAMIDE	The metabolism of Ifosfamide can be decreased when combined with Doxorubicin.
+METHOTREXATE+IFOSFAMIDE	
+GEFITINIB+LENALIDOMIDE	
+DOXORUBICIN+LENALIDOMIDE	
+METHOTREXATE+LENALIDOMIDE	
+DOCETAXEL+MITOXANTRONE	The risk or severity of adverse effects can be increased when Docetaxel is combined with Mitoxantrone.
+DOXORUBICIN+MITOXANTRONE	The serum concentration of Doxorubicin can be increased when it is combined with Mitoxantrone.
+METHOTREXATE+MITOXANTRONE	
+IRINOTECAN+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Irinotecan.
+DOXORUBICIN+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Doxorubicin.
+DOXORUBICIN+PACLITAXEL	The serum concentration of Doxorubicin can be increased when it is combined with Paclitaxel.
+METHOTREXATE+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Methotrexate.
+GEFITINIB+TEMSIROLIMUS	
+IRINOTECAN+TEMSIROLIMUS	
+DOXORUBICIN+TEMSIROLIMUS	The serum concentration of Doxorubicin can be increased when it is combined with Temsirolimus.
+METHOTREXATE+TEMSIROLIMUS	
+AFATINIB+TEMSIROLIMUS	The serum concentration of Afatinib can be increased when it is combined with Temsirolimus.
+TOPOTECAN+LENVATINIB	
+GEMCITABINE+LENVATINIB	
+ETOPOSIDE+LENVATINIB	
+DOCETAXEL+LENVATINIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Lenvatinib.
+BEVACIZUMAB+LENVATINIB	Bevacizumab may increase the cardiotoxic activities of Lenvatinib.
+CISPLATIN+LENVATINIB	
+CRIZOTINIB+LENVATINIB	Crizotinib may increase the QTc-prolonging activities of Lenvatinib.
+TOPOTECAN+LENVATINIB	
+GEMCITABINE+LENVATINIB	
+ETOPOSIDE+LENVATINIB	
+DOCETAXEL+LENVATINIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Lenvatinib.
+BEVACIZUMAB+LENVATINIB	Bevacizumab may increase the cardiotoxic activities of Lenvatinib.
+CISPLATIN+LENVATINIB	
+CRIZOTINIB+LENVATINIB	Crizotinib may increase the QTc-prolonging activities of Lenvatinib.
+ERLOTINIB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Erlotinib.
+DOCETAXEL+DENILEUKIN DIFTITOX	The risk or severity of adverse effects can be increased when Docetaxel is combined with Denileukin diftitox.
+GEFITINIB+IFOSFAMIDE	
+ERLOTINIB+IFOSFAMIDE	
+IRINOTECAN+LENALIDOMIDE	
+DOCETAXEL+LENALIDOMIDE	The risk or severity of adverse effects can be increased when Docetaxel is combined with Lenalidomide.
+GEFITINIB+MITOXANTRONE	
+IRINOTECAN+MITOXANTRONE	
+GEFITINIB+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Gefitinib.
+DOCETAXEL+TEMSIROLIMUS	The risk or severity of adverse effects can be increased when Docetaxel is combined with Temsirolimus.
+CARBOPLATIN+LENVATINIB	
+CARBOPLATIN+LENVATINIB	
+IRINOTECAN+COPANLISIB	
+DOCETAXEL+COPANLISIB	
+ERLOTINIB+COPANLISIB	
+PEMETREXED+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Pemetrexed.
+CISPLATIN+CYTARABINE	
+AFATINIB+CYTARABINE	
+ERLOTINIB+DENILEUKIN DIFTITOX	
+ERLOTINIB+LENALIDOMIDE	
+ERLOTINIB+MITOXANTRONE	
+DOCETAXEL+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Docetaxel.
+ERLOTINIB+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Erlotinib.
+VINCRISTINE+TEMSIROLIMUS	The excretion of Vincristine can be decreased when combined with Temsirolimus.
+OSIMERTINIB+TEMSIROLIMUS	The serum concentration of Temsirolimus can be increased when it is combined with Osimertinib.
+ICOTINIB+TEMSIROLIMUS	
+OLMUTINIB+TEMSIROLIMUS	
+RAMUCIRUMAB+TEMSIROLIMUS	
+ERLOTINIB+TEMSIROLIMUS	
+VINCRISTINE+CYTARABINE	
+RAMUCIRUMAB+CYTARABINE	
+CISPLATIN+PACLITAXEL	Cisplatin may increase the myelosuppressive activities of Paclitaxel.
+MITOMYCIN+TEMSIROLIMUS	
+AFATINIB+COPANLISIB	
+AFATINIB+CYCLOPHOSPHAMIDE	The serum concentration of Afatinib can be increased when it is combined with Cyclophosphamide.
+MITOMYCIN+CYTARABINE	
+ETOPOSIDE+CYTARABINE	
+VINCRISTINE+IFOSFAMIDE	
+BEVACIZUMAB+PACLITAXEL	Bevacizumab may increase the cardiotoxic activities of Paclitaxel.
+PEMETREXED+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Pemetrexed.
+PEMETREXED+TEMSIROLIMUS	
+OSIMERTINIB+CYTARABINE	The serum concentration of Cytarabine can be increased when it is combined with Osimertinib.
+BEVACIZUMAB+CYTARABINE	Bevacizumab may increase the cardiotoxic activities of Cytarabine.
+PEMETREXED+CYTARABINE	
+ICOTINIB+CYTARABINE	
+OLMUTINIB+CYTARABINE	
+ALECTINIB+CYTARABINE	
+VINCRISTINE+LENALIDOMIDE	
+VINCRISTINE+MITOXANTRONE	The serum concentration of Vincristine can be decreased when it is combined with Mitoxantrone.
+VINCRISTINE+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Vincristine.
+VINCRISTINE+PACLITAXEL	The excretion of Vincristine can be decreased when combined with Paclitaxel.
+ETOPOSIDE+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Etoposide.
+AFATINIB+PACLITAXEL	The serum concentration of Afatinib can be increased when it is combined with Paclitaxel.
+PORFIMER+TEMSIROLIMUS	
+BRIGATINIB+TEMSIROLIMUS	
+CISPLATIN+TEMSIROLIMUS	
+ALECTINIB+TEMSIROLIMUS	
+VINCRISTINE+COPANLISIB	
+VINCRISTINE+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Vincristine.
+VINCRISTINE+CYCLOPHOSPHAMIDE	The excretion of Vincristine can be decreased when combined with Cyclophosphamide.
+VINORELBINE+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Vinorelbine.
+GEMCITABINE+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Gemcitabine.
+ETOPOSIDE+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Etoposide.
+RAMUCIRUMAB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Ramucirumab.
+VINORELBINE+CYTARABINE	
+PORFIMER+CYTARABINE	
+BRIGATINIB+CYTARABINE	
+CRIZOTINIB+CYTARABINE	The metabolism of Cytarabine can be decreased when combined with Crizotinib.
+AFATINIB+DENILEUKIN DIFTITOX	
+AFATINIB+IFOSFAMIDE	
+PEMETREXED+LENALIDOMIDE	
+CISPLATIN+LENALIDOMIDE	
+AFATINIB+LENALIDOMIDE	
+AFATINIB+MITOXANTRONE	The serum concentration of Afatinib can be decreased when it is combined with Mitoxantrone.
+VINORELBINE+TEMSIROLIMUS	
+ETOPOSIDE+TEMSIROLIMUS	
+TOPOTECAN+CYTARABINE	
+VINCRISTINE+DENILEUKIN DIFTITOX	
+CISPLATIN+IFOSFAMIDE	
+MITOMYCIN+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Mitomycin.
+GEMCITABINE+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Gemcitabine.
+ALECTINIB+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Alectinib.
+RAMUCIRUMAB+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Ramucirumab.
+OSIMERTINIB+COPANLISIB	The serum concentration of Copanlisib can be increased when it is combined with Osimertinib.
+ICOTINIB+COPANLISIB	
+OLMUTINIB+COPANLISIB	
+TOPOTECAN+CYCLOPHOSPHAMIDE	The serum concentration of Topotecan can be increased when it is combined with Cyclophosphamide.
+PORFIMER+CYCLOPHOSPHAMIDE	
+OSIMERTINIB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Osimertinib.
+ICOTINIB+CYCLOPHOSPHAMIDE	
+OLMUTINIB+CYCLOPHOSPHAMIDE	
+ALECTINIB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Alectinib.
+CRIZOTINIB+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Crizotinib.
+CISPLATIN+DENILEUKIN DIFTITOX	
+RAMUCIRUMAB+LENALIDOMIDE	
+PEMETREXED+MITOXANTRONE	
+CISPLATIN+MITOXANTRONE	
+VINORELBINE+PACLITAXEL	Paclitaxel may increase the neurotoxic activities of Vinorelbine.
+PORFIMER+PACLITAXEL	
+CARBOPLATIN+PACLITAXEL	Carboplatin may increase the myelosuppressive activities of Paclitaxel.
+OSIMERTINIB+PACLITAXEL	The serum concentration of Paclitaxel can be increased when it is combined with Osimertinib.
+BRIGATINIB+PACLITAXEL	
+ICOTINIB+PACLITAXEL	
+OLMUTINIB+PACLITAXEL	
+CRIZOTINIB+PACLITAXEL	The risk or severity of adverse effects can be increased when Paclitaxel is combined with Crizotinib.
+RAMUCIRUMAB+DENILEUKIN DIFTITOX	
+PEMETREXED+IFOSFAMIDE	
+RAMUCIRUMAB+MITOXANTRONE	
+MITOMYCIN+COPANLISIB	
+ETOPOSIDE+COPANLISIB	
+PEMETREXED+COPANLISIB	
+CISPLATIN+COPANLISIB	
+RAMUCIRUMAB+COPANLISIB	
+MITOMYCIN+CYCLOPHOSPHAMIDE	Cyclophosphamide may increase the cardiotoxic activities of Mitomycin.
+BRIGATINIB+CYCLOPHOSPHAMIDE	
+BEVACIZUMAB+CYCLOPHOSPHAMIDE	Bevacizumab may increase the cardiotoxic activities of Cyclophosphamide.
+MITOMYCIN+DENILEUKIN DIFTITOX	
+PORFIMER+DENILEUKIN DIFTITOX	
+ETOPOSIDE+DENILEUKIN DIFTITOX	
+OSIMERTINIB+DENILEUKIN DIFTITOX	
+BEVACIZUMAB+DENILEUKIN DIFTITOX	Bevacizumab may increase the cardiotoxic activities of Denileukin diftitox.
+PEMETREXED+DENILEUKIN DIFTITOX	
+ICOTINIB+DENILEUKIN DIFTITOX	
+OLMUTINIB+DENILEUKIN DIFTITOX	
+ALECTINIB+DENILEUKIN DIFTITOX	
+MITOMYCIN+IFOSFAMIDE	
+ETOPOSIDE+IFOSFAMIDE	
+BEVACIZUMAB+IFOSFAMIDE	Bevacizumab may increase the cardiotoxic activities of Ifosfamide.
+ALECTINIB+IFOSFAMIDE	
+RAMUCIRUMAB+IFOSFAMIDE	
+MITOMYCIN+LENALIDOMIDE	
+VINORELBINE+LENALIDOMIDE	
+PORFIMER+LENALIDOMIDE	
+ETOPOSIDE+LENALIDOMIDE	
+OSIMERTINIB+LENALIDOMIDE	
+BRIGATINIB+LENALIDOMIDE	
+BEVACIZUMAB+LENALIDOMIDE	Bevacizumab may increase the cardiotoxic activities of Lenalidomide.
+ICOTINIB+LENALIDOMIDE	
+OLMUTINIB+LENALIDOMIDE	
+ALECTINIB+LENALIDOMIDE	
+CRIZOTINIB+LENALIDOMIDE	
+MITOMYCIN+MITOXANTRONE	
+VINORELBINE+MITOXANTRONE	
+PORFIMER+MITOXANTRONE	
+OSIMERTINIB+MITOXANTRONE	
+BRIGATINIB+MITOXANTRONE	
+BEVACIZUMAB+MITOXANTRONE	Bevacizumab may increase the cardiotoxic activities of Mitoxantrone.
+ICOTINIB+MITOXANTRONE	
+OLMUTINIB+MITOXANTRONE	
+ALECTINIB+MITOXANTRONE	
+TOPOTECAN+PACLITAXEL	The serum concentration of Topotecan can be increased when it is combined with Paclitaxel.
+VINORELBINE+COPANLISIB	
+PORFIMER+COPANLISIB	
+BRIGATINIB+COPANLISIB	
+BEVACIZUMAB+COPANLISIB	
+ALECTINIB+COPANLISIB	
+VINORELBINE+DENILEUKIN DIFTITOX	
+BRIGATINIB+DENILEUKIN DIFTITOX	
+CRIZOTINIB+DENILEUKIN DIFTITOX	
+VINORELBINE+IFOSFAMIDE	
+PORFIMER+IFOSFAMIDE	
+OSIMERTINIB+IFOSFAMIDE	The serum concentration of Ifosfamide can be increased when it is combined with Osimertinib.
+ICOTINIB+IFOSFAMIDE	
+OLMUTINIB+IFOSFAMIDE	
+CRIZOTINIB+IFOSFAMIDE	The serum concentration of the active metabolites of Ifosfamide can be reduced when Ifosfamide is used in combination with Crizotinib resulting in a loss in efficacy.
+TOPOTECAN+LENALIDOMIDE	
+GEMCITABINE+LENALIDOMIDE	
+GEMCITABINE+MITOXANTRONE	
+CRIZOTINIB+MITOXANTRONE	
+GEMCITABINE+IFOSFAMIDE	
+BRIGATINIB+IFOSFAMIDE	
+TOPOTECAN+DENILEUKIN DIFTITOX	
+GEMCITABINE+DENILEUKIN DIFTITOX	
+TOPOTECAN+IFOSFAMIDE	
+TOPOTECAN+MITOXANTRONE	The serum concentration of Topotecan can be increased when it is combined with Mitoxantrone.
+ETOPOSIDE+MITOXANTRONE	

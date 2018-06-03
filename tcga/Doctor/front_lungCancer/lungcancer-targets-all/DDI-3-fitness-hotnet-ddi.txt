@@ -1,0 +1,258 @@
+GEFITINIB+NINTEDANIB	
+VINCRISTINE+NINTEDANIB	The serum concentration of Nintedanib can be increased when it is combined with Vincristine.
+MITOMYCIN+NINTEDANIB	
+VINORELBINE+NINTEDANIB	The serum concentration of Nintedanib can be increased when it is combined with Vinorelbine.
+PORFIMER+NINTEDANIB	
+ETOPOSIDE+NINTEDANIB	The serum concentration of Nintedanib can be increased when it is combined with Etoposide.
+IRINOTECAN+NINTEDANIB	
+OSIMERTINIB+NINTEDANIB	
+DOCETAXEL+DOXORUBICIN	The risk or severity of adverse effects can be increased when Docetaxel is combined with Doxorubicin.
+DOCETAXEL+DOXORUBICIN	The metabolism of Doxorubicin can be decreased when combined with Docetaxel.
+DOCETAXEL+METHOTREXATE	The risk or severity of adverse effects can be increased when Docetaxel is combined with Methotrexate.
+DOCETAXEL+NINTEDANIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Nintedanib.
+BRIGATINIB+NINTEDANIB	
+DOXORUBICIN+NINTEDANIB	The serum concentration of Nintedanib can be increased when it is combined with Doxorubicin.
+METHOTREXATE+NINTEDANIB	
+PEMETREXED+NINTEDANIB	
+ICOTINIB+NINTEDANIB	
+OLMUTINIB+NINTEDANIB	
+ALECTINIB+NINTEDANIB	
+AFATINIB+NINTEDANIB	
+CRIZOTINIB+NINTEDANIB	The serum concentration of Nintedanib can be increased when it is combined with Crizotinib.
+RAMUCIRUMAB+NINTEDANIB	
+NINTEDANIB+ERLOTINIB	
+TOPOTECAN+DOXORUBICIN	The serum concentration of Topotecan can be increased when it is combined with Doxorubicin.
+GEFITINIB+VINCRISTINE	The excretion of Vincristine can be decreased when combined with Gefitinib.
+GEFITINIB+IRINOTECAN	
+GEFITINIB+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Gefitinib.
+GEFITINIB+DOXORUBICIN	The serum concentration of Doxorubicin can be increased when it is combined with Gefitinib.
+GEFITINIB+METHOTREXATE	
+GEFITINIB+RAMUCIRUMAB	
+VINCRISTINE+IRINOTECAN	
+VINCRISTINE+DOXORUBICIN	The serum concentration of Vincristine can be decreased when it is combined with Doxorubicin.
+VINCRISTINE+DOXORUBICIN	The serum concentration of Doxorubicin can be increased when it is combined with Vincristine.
+VINCRISTINE+METHOTREXATE	
+MITOMYCIN+DOXORUBICIN	The serum concentration of Doxorubicin can be increased when it is combined with Mitomycin.
+VINORELBINE+DOXORUBICIN	The serum concentration of Doxorubicin can be increased when it is combined with Vinorelbine.
+VINORELBINE+METHOTREXATE	
+PORFIMER+DOXORUBICIN	
+PORFIMER+METHOTREXATE	
+GEMCITABINE+DOXORUBICIN	
+GEMCITABINE+METHOTREXATE	
+ETOPOSIDE+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Etoposide.
+ETOPOSIDE+DOXORUBICIN	The serum concentration of Doxorubicin can be increased when it is combined with Etoposide.
+ETOPOSIDE+METHOTREXATE	
+IRINOTECAN+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Irinotecan.
+IRINOTECAN+DOXORUBICIN	The metabolism of Irinotecan can be decreased when combined with Doxorubicin.
+IRINOTECAN+METHOTREXATE	
+IRINOTECAN+CISPLATIN	
+IRINOTECAN+AFATINIB	
+IRINOTECAN+ERLOTINIB	
+OSIMERTINIB+DOXORUBICIN	The serum concentration of Doxorubicin can be increased when it is combined with Osimertinib.
+OSIMERTINIB+METHOTREXATE	
+DOCETAXEL+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Docetaxel.
+DOCETAXEL+ERLOTINIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Erlotinib.
+BRIGATINIB+DOXORUBICIN	
+BRIGATINIB+METHOTREXATE	
+BEVACIZUMAB+DOXORUBICIN	Bevacizumab may increase the cardiotoxic activities of Doxorubicin.
+BEVACIZUMAB+METHOTREXATE	Bevacizumab may increase the cardiotoxic activities of Methotrexate.
+DOXORUBICIN+METHOTREXATE	
+DOXORUBICIN+PEMETREXED	
+DOXORUBICIN+ICOTINIB	
+DOXORUBICIN+CISPLATIN	Cisplatin may increase the nephrotoxic activities of Doxorubicin.
+DOXORUBICIN+OLMUTINIB	
+DOXORUBICIN+ALECTINIB	The serum concentration of Doxorubicin can be increased when it is combined with Alectinib.
+DOXORUBICIN+AFATINIB	The serum concentration of Doxorubicin can be increased when it is combined with Afatinib.
+DOXORUBICIN+AFATINIB	The serum concentration of Afatinib can be decreased when it is combined with Doxorubicin.
+DOXORUBICIN+CRIZOTINIB	The metabolism of Doxorubicin can be decreased when combined with Crizotinib.
+DOXORUBICIN+CRIZOTINIB	The serum concentration of Doxorubicin can be increased when it is combined with Crizotinib.
+DOXORUBICIN+RAMUCIRUMAB	
+DOXORUBICIN+ERLOTINIB	
+METHOTREXATE+PEMETREXED	
+METHOTREXATE+ICOTINIB	
+METHOTREXATE+CISPLATIN	
+METHOTREXATE+OLMUTINIB	
+METHOTREXATE+ALECTINIB	
+METHOTREXATE+AFATINIB	
+METHOTREXATE+CRIZOTINIB	
+METHOTREXATE+RAMUCIRUMAB	
+METHOTREXATE+ERLOTINIB	
+TOPOTECAN+METHOTREXATE	
+MITOMYCIN+METHOTREXATE	
+DOCETAXEL+PEMETREXED	The risk or severity of adverse effects can be increased when Docetaxel is combined with Pemetrexed.
+DOCETAXEL+AFATINIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Afatinib.
+TOPOTECAN+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Topotecan.
+GEFITINIB+MITOMYCIN	
+GEFITINIB+VINORELBINE	Gefitinib may increase the neutropenic activities of Vinorelbine.
+GEFITINIB+PORFIMER	
+GEFITINIB+BRIGATINIB	
+GEFITINIB+PEMETREXED	
+GEFITINIB+CISPLATIN	
+GEFITINIB+ALECTINIB	
+GEFITINIB+CRIZOTINIB	The metabolism of Gefitinib can be decreased when combined with Crizotinib.
+GEFITINIB+ERLOTINIB	
+VINCRISTINE+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Vincristine.
+VINCRISTINE+PEMETREXED	
+VINCRISTINE+CISPLATIN	
+VINCRISTINE+ERLOTINIB	
+MITOMYCIN+IRINOTECAN	
+MITOMYCIN+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Mitomycin.
+VINORELBINE+IRINOTECAN	
+VINORELBINE+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Vinorelbine.
+PORFIMER+IRINOTECAN	
+PORFIMER+DOCETAXEL	
+GEMCITABINE+DOCETAXEL	The risk or severity of adverse effects can be increased when Docetaxel is combined with Gemcitabine.
+ETOPOSIDE+IRINOTECAN	
+IRINOTECAN+OSIMERTINIB	The serum concentration of Irinotecan can be increased when it is combined with Osimertinib.
+IRINOTECAN+BRIGATINIB	
+IRINOTECAN+BEVACIZUMAB	The risk or severity of adverse effects can be increased when Bevacizumab is combined with Irinotecan.
+IRINOTECAN+PEMETREXED	
+IRINOTECAN+ICOTINIB	
+IRINOTECAN+OLMUTINIB	
+IRINOTECAN+ALECTINIB	
+IRINOTECAN+CRIZOTINIB	The metabolism of Irinotecan can be decreased when combined with Crizotinib.
+IRINOTECAN+RAMUCIRUMAB	
+OSIMERTINIB+DOCETAXEL	The serum concentration of Docetaxel can be increased when it is combined with Osimertinib.
+DOCETAXEL+BRIGATINIB	
+DOCETAXEL+ICOTINIB	
+DOCETAXEL+CISPLATIN	Cisplatin may increase the myelosuppressive activities of Docetaxel.
+DOCETAXEL+OLMUTINIB	
+DOCETAXEL+ALECTINIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Alectinib.
+DOCETAXEL+CRIZOTINIB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Crizotinib.
+DOCETAXEL+RAMUCIRUMAB	The risk or severity of adverse effects can be increased when Docetaxel is combined with Ramucirumab.
+PEMETREXED+ERLOTINIB	
+CISPLATIN+ERLOTINIB	
+AFATINIB+ERLOTINIB	
+RAMUCIRUMAB+ERLOTINIB	
+GEFITINIB+ETOPOSIDE	
+GEMCITABINE+IRINOTECAN	
+PEMETREXED+CISPLATIN	
+GEFITINIB+OSIMERTINIB	The serum concentration of Gefitinib can be increased when it is combined with Osimertinib.
+GEFITINIB+ICOTINIB	
+GEFITINIB+OLMUTINIB	
+GEFITINIB+AFATINIB	The serum concentration of Afatinib can be increased when it is combined with Gefitinib.
+TOPOTECAN+IRINOTECAN	
+ETOPOSIDE+ERLOTINIB	
+VINCRISTINE+AFATINIB	The serum concentration of Afatinib can be decreased when it is combined with Vincristine.
+VINCRISTINE+AFATINIB	The excretion of Vincristine can be decreased when combined with Afatinib.
+MITOMYCIN+ERLOTINIB	
+VINORELBINE+ERLOTINIB	
+PORFIMER+ERLOTINIB	
+BRIGATINIB+ERLOTINIB	
+BEVACIZUMAB+ERLOTINIB	Bevacizumab may increase the cardiotoxic activities of Erlotinib.
+BEVACIZUMAB+CISPLATIN	Bevacizumab may increase the cardiotoxic activities of Cisplatin.
+OSIMERTINIB+ERLOTINIB	The serum concentration of Erlotinib can be increased when it is combined with Osimertinib.
+ICOTINIB+ERLOTINIB	
+OLMUTINIB+ERLOTINIB	
+ALECTINIB+ERLOTINIB	
+AFATINIB+RAMUCIRUMAB	
+VINCRISTINE+MITOMYCIN	The risk or severity of adverse effects can be increased when Vincristine is combined with Mitomycin.
+VINCRISTINE+MITOMYCIN	The excretion of Vincristine can be decreased when combined with Mitomycin.
+VINCRISTINE+ETOPOSIDE	The excretion of Vincristine can be decreased when combined with Etoposide.
+VINCRISTINE+RAMUCIRUMAB	
+MITOMYCIN+AFATINIB	The serum concentration of Afatinib can be increased when it is combined with Mitomycin.
+PEMETREXED+AFATINIB	
+CISPLATIN+AFATINIB	
+GEMCITABINE+CISPLATIN	
+TOPOTECAN+VINCRISTINE	The serum concentration of Topotecan can be increased when it is combined with Vincristine.
+TOPOTECAN+CISPLATIN	The risk or severity of adverse effects can be increased when Cisplatin is combined with Topotecan.
+VINCRISTINE+PORFIMER	
+VINCRISTINE+GEMCITABINE	
+VINCRISTINE+OSIMERTINIB	The serum concentration of Vincristine can be increased when it is combined with Osimertinib.
+VINCRISTINE+BRIGATINIB	
+VINCRISTINE+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Vincristine.
+VINCRISTINE+ICOTINIB	
+VINCRISTINE+OLMUTINIB	
+VINCRISTINE+ALECTINIB	The excretion of Vincristine can be decreased when combined with Alectinib.
+VINCRISTINE+CRIZOTINIB	The metabolism of Vincristine can be decreased when combined with Crizotinib.
+MITOMYCIN+PEMETREXED	
+MITOMYCIN+CISPLATIN	
+MITOMYCIN+RAMUCIRUMAB	
+VINORELBINE+PEMETREXED	
+VINORELBINE+CISPLATIN	The risk or severity of adverse effects can be increased when Cisplatin is combined with Vinorelbine.
+VINORELBINE+AFATINIB	The serum concentration of Afatinib can be increased when it is combined with Vinorelbine.
+PORFIMER+CISPLATIN	
+PORFIMER+AFATINIB	
+GEMCITABINE+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Gemcitabine.
+ETOPOSIDE+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Etoposide.
+ETOPOSIDE+CISPLATIN	
+ETOPOSIDE+AFATINIB	The serum concentration of Afatinib can be increased when it is combined with Etoposide.
+OSIMERTINIB+CISPLATIN	
+OSIMERTINIB+AFATINIB	
+BRIGATINIB+CISPLATIN	
+BRIGATINIB+AFATINIB	
+BEVACIZUMAB+PEMETREXED	Bevacizumab may increase the cardiotoxic activities of Pemetrexed.
+BEVACIZUMAB+AFATINIB	Bevacizumab may increase the cardiotoxic activities of Afatinib.
+PEMETREXED+RAMUCIRUMAB	
+ICOTINIB+CISPLATIN	
+ICOTINIB+AFATINIB	
+CISPLATIN+OLMUTINIB	
+CISPLATIN+ALECTINIB	
+CISPLATIN+CRIZOTINIB	
+CISPLATIN+RAMUCIRUMAB	
+OLMUTINIB+AFATINIB	
+ALECTINIB+AFATINIB	The serum concentration of Afatinib can be increased when it is combined with Alectinib.
+AFATINIB+CRIZOTINIB	The serum concentration of Afatinib can be increased when it is combined with Crizotinib.
+VINCRISTINE+VINORELBINE	The excretion of Vincristine can be decreased when combined with Vinorelbine.
+VINCRISTINE+CARBOPLATIN	
+VINORELBINE+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Vinorelbine.
+PORFIMER+PEMETREXED	
+CARBOPLATIN+PEMETREXED	
+ETOPOSIDE+PEMETREXED	
+ETOPOSIDE+ALECTINIB	
+ETOPOSIDE+RAMUCIRUMAB	
+OSIMERTINIB+PEMETREXED	
+OSIMERTINIB+RAMUCIRUMAB	
+BEVACIZUMAB+ALECTINIB	Bevacizumab may increase the cardiotoxic activities of Alectinib.
+BEVACIZUMAB+RAMUCIRUMAB	Bevacizumab may increase the cardiotoxic activities of Ramucirumab.
+PEMETREXED+ICOTINIB	
+PEMETREXED+OLMUTINIB	
+PEMETREXED+ALECTINIB	
+ICOTINIB+RAMUCIRUMAB	
+OLMUTINIB+RAMUCIRUMAB	
+ALECTINIB+RAMUCIRUMAB	
+VINORELBINE+ETOPOSIDE	
+PORFIMER+RAMUCIRUMAB	
+ETOPOSIDE+CRIZOTINIB	The metabolism of Etoposide can be decreased when combined with Crizotinib.
+BRIGATINIB+PEMETREXED	
+BEVACIZUMAB+CRIZOTINIB	Bevacizumab may increase the cardiotoxic activities of Crizotinib.
+PEMETREXED+CRIZOTINIB	
+TOPOTECAN+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Topotecan.
+TOPOTECAN+PEMETREXED	
+MITOMYCIN+VINORELBINE	The risk or severity of adverse effects can be increased when Vinorelbine is combined with Mitomycin.
+MITOMYCIN+PORFIMER	
+MITOMYCIN+ETOPOSIDE	
+MITOMYCIN+OSIMERTINIB	
+MITOMYCIN+BRIGATINIB	
+MITOMYCIN+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Mitomycin.
+MITOMYCIN+ICOTINIB	
+MITOMYCIN+OLMUTINIB	
+MITOMYCIN+ALECTINIB	
+MITOMYCIN+CRIZOTINIB	
+VINORELBINE+RAMUCIRUMAB	
+PORFIMER+ETOPOSIDE	
+PORFIMER+BEVACIZUMAB	
+GEMCITABINE+ETOPOSIDE	
+GEMCITABINE+PEMETREXED	
+CARBOPLATIN+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Carboplatin.
+ETOPOSIDE+OSIMERTINIB	The serum concentration of Etoposide can be increased when it is combined with Osimertinib.
+ETOPOSIDE+BRIGATINIB	
+ETOPOSIDE+ICOTINIB	
+ETOPOSIDE+OLMUTINIB	
+OSIMERTINIB+BEVACIZUMAB	Bevacizumab may increase the cardiotoxic activities of Osimertinib.
+BRIGATINIB+BEVACIZUMAB	
+BRIGATINIB+RAMUCIRUMAB	
+BEVACIZUMAB+ICOTINIB	
+BEVACIZUMAB+OLMUTINIB	
+CRIZOTINIB+RAMUCIRUMAB	
+PORFIMER+ALECTINIB	
+OSIMERTINIB+ALECTINIB	
+ICOTINIB+ALECTINIB	
+OLMUTINIB+ALECTINIB	
+TOPOTECAN+RAMUCIRUMAB	
+MITOMYCIN+GEMCITABINE	
+VINORELBINE+GEMCITABINE	
+VINORELBINE+ALECTINIB	
+GEMCITABINE+CARBOPLATIN	
+GEMCITABINE+RAMUCIRUMAB	
+BRIGATINIB+ALECTINIB	
